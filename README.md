@@ -1,17 +1,16 @@
-#📂 Portfolio
+# 💼 Portfolio
 
 반세윤의 포트폴리오 입니다. Portfolio of Se Youn Ban
 
 
-## 소개
+## 👋 소개
 
 * Backend / AI Engineer
 * 관심 분야: Audio Processing, Machine Learning, Kubernetes
 * 현재: 말벌 탐지 AI 모델 개발
 
----
 
-## 기술 스택
+## ⚙️ 기술 스택
 
 ### 💻 Backend
 
@@ -29,9 +28,9 @@
 * ArgoCD
 * Docker
 
----
 
-#📂 주요 프로잭트
+
+## 📂 주요 프로잭트
 
 
 ### 🐝 Hornet Detection AI
@@ -42,7 +41,7 @@
 
 👉 자세히 보기: https://github.com/syban75/portfolio/tree/main/hornet-detection
 
----
+
 
 ### 📊 Audio Feature Analysis
 
@@ -51,7 +50,7 @@
 
 👉 자세히 보기: https://github.com/syban75/portfolio/tree/main/audio-analysis
 
----
+
 
 
 ## 📫 Contact
