@@ -1,4 +1,4 @@
-📂 Portfolio
+#📂 Portfolio
 
 반세윤의 포트폴리오 입니다. Portfolio of Se Youn Ban
 
@@ -31,7 +31,7 @@
 
 ---
 
-📂 주요 프로잭트
+#📂 주요 프로잭트
 
 
 ### 🐝 Hornet Detection AI
