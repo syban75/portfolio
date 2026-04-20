@@ -67,7 +67,7 @@
 * FFT + Spectrogram 기반 CNN
 * 정확도 개선 진행 중
 
-👉 자세히 보기: https://github.com/syban75/portfolio/tree/main/hornet-detection
+👉 자세히 보기: - [Hornet Detection](./hornet-detection)
 
 
 ## 📫 Contact
