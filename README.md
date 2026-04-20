@@ -41,7 +41,7 @@
 * 실시간 모니터링 및 알림 시스템 설계 
 * 파이프라인 설계 및 구축 
 
-👉 자세히 보기: [공동구 스마트 플랫폼](./utility-tunnel-smart-system)
+👉 자세히 보기: [공동구 스마트 플랫폼](./utility-tunnel-smart-monitoring)
 
 ### 🔄 SW산업의 디지털 트랜스포메이션을 위한 컨테이너 기반 SaaSify 서비스 플랫폼 개발
 
