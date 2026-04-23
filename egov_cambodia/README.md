@@ -6,4 +6,5 @@
 * 현지 인력 대상 실습 중심 기술 교육 진행 
 * 운영 및 관리 체계 수립 컨설팅 
 
+![설명](./egov_cambodia_architecture.png)
 
