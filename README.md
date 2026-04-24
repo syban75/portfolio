@@ -30,6 +30,7 @@
 ### ☁️ Monitoring System
 * SNMP
 * ICMP
+* NMS/SMS
 
 ## 📂 주요 프로잭트
 
