@@ -5,4 +5,5 @@
 * FFT + Spectrogram 기반 CNN
 * 정확도 개선 진행 중
 
+[말벌 탐지 프로잭트](https://github.com/khivemind)
 
