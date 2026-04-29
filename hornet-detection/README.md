@@ -6,8 +6,7 @@
 
 [말벌 탐지 프로잭트](https://github.com/khivemind)
 
-## 📄 PDF
-[Download](./말벌감지_프로젝트_(AI기반_실시간_탐지_시스템).pdf). 
+### 📄 PDF [Download](./말벌감지_프로젝트_(AI기반_실시간_탐지_시스템).pdf). 
 
 ### 📸 Preview
 ![slide1](./images/슬라이드1.PNG)
